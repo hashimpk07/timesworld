@@ -1,26 +1,25 @@
 ## Timesworld Media and Technology Solutions Pvt. Ltd.
 <ul>
-    <li>Project Created By : HASHIM PK Project </li>
-    <li>Created 0n : 10/07/2024 to 11/07/2024 </li>
-    <li>Project Duration : 5 to 7 hours  </li>
+    <li>Project Created By : HASHIM PK  </li>
+    <li>Project Created 0n : 10/07/2024 to 11/07/2024 </li>
+    <li>Project Duration   : 5 to 7 hours  </li>
     <li>Project Created for : Timesworld Media and Technology Solutions Pvt. Ltd   </li>
-    <li>Using Technology : Laravel 10.5 , Mysql ,Ajax, Jquery And Boostrap 4   </li>
+    <li>Using Technology   : Laravel 10.5 , Mysql ,Ajax, Jquery And Boostrap 4   </li>
 </ul>
-About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-Simple, fast routing engine.
+<h6 style="font-weight: bold";>About Laravel</h6>
+<p>Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+</p>
+<p>Simple, fast routing engine.
 Powerful dependency injection container.
 Multiple back-ends for session and cache storage.
 Expressive, intuitive database ORM.
 Database agnostic schema migrations.
 Robust background job processing.
-Real-time event broadcasting.
+Real-time event broadcasting.</p>
+<p>Laravel is accessible, powerful, and provides tools required for large, robust applications</p>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-Laravel 10 Requirements
+<h6 style="color:red">Laravel 10 Requirements</h6>
 
 PHP >= 8.1 BCMath PHP Extension Ctype PHP Extension Fileinfo PHP extension JSON PHP Extension Mbstring PHP Extension OpenSSL PHP Extension PDO PHP Extension Tokenizer PHP Extension XML PHP Extension.
 
