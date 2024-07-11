@@ -1,11 +1,11 @@
-Timesworld Media and Technology Solutions Pvt. Ltd.
-
-Project Created By : HASHIM PK Project 
-Created 0n : 10/07/2024 to 11/07/2024 
-Project Duration : 5 to 7 hours 
-Project Created for : Timesworld Media and Technology Solutions Pvt. Ltd 
-Using Technology : Laravel 10.5 , Mysql ,Ajax, Jquery And Boostrap 4
-
+## Timesworld Media and Technology Solutions Pvt. Ltd.
+<ul>
+    <li>Project Created By : HASHIM PK Project </li>
+    <li>Created 0n : 10/07/2024 to 11/07/2024 </li>
+    <li>Project Duration : 5 to 7 hours  </li>
+    <li>Project Created for : Timesworld Media and Technology Solutions Pvt. Ltd   </li>
+    <li>Using Technology : Laravel 10.5 , Mysql ,Ajax, Jquery And Boostrap 4   </li>
+</ul>
 About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
